@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ggfancy.myplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ggfancy.myplugin.MyBundle
 
 class MyApplicationService {
 
